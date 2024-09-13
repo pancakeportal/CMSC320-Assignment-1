@@ -9,3 +9,7 @@ Answer: Healthcare. For example, you could use data science to predict outbreaks
 Q3: What is the difference between merging and rebasing?
 
 Answer: merging commits all changes from one branch into the current one, rebasing redoes all the commits of the current onto a different one.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to be better at navigating code collaboration software and writing more efficient code.
